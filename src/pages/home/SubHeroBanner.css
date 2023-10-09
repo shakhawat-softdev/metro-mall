@@ -1,0 +1,7 @@
+#subbannerContainer {
+   transition: transform 0.10s ease-in-out;
+
+   &:hover {
+      transform: scale(1.01);
+   }
+}

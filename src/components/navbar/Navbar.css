@@ -1,0 +1,56 @@
+.navItemStyle {
+  text-decoration: none !important;
+  /* color: black; */
+  font-weight: bold;
+
+}
+
+.customizeContainer {
+  width: 100%;
+  max-width: 1280px;
+  margin: auto;
+}
+
+#navigation {
+  width: 100%;
+
+}
+
+#navbarNavDropdown {
+  background-color: ghostwhite;
+  width: 100%;
+
+}
+
+#navItems {
+  margin-right: 140px !important;
+
+  padding: 3px;
+  margin-top: 3px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+a {
+  font-size: 14px;
+  font-weight: 700
+}
+
+.superNav {
+  font-size: 13px;
+}
+
+.form-control {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+@media screen and (max-width:540px) {
+  .centerOnMobile {
+    text-align: center
+  }
+}

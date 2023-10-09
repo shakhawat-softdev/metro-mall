@@ -1,0 +1,22 @@
+#newArrivalCard:hover {
+  background-color: #f8f8f8;
+  transition: background-color 0.3s ease;
+  transform: scale(1.03);
+  transition: transform 0.50s ease, box-shadow 0.50s ease;
+}
+
+;
+
+#cardDescription {
+  height: 200px;
+}
+
+;
+
+#cardImg {
+  width: 200px;
+  height: 200px;
+
+}
+
+;

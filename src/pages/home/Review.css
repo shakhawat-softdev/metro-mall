@@ -1,0 +1,33 @@
+#customerReview {
+  background-color: hsla(89, 43%, 51%, 0.3);
+
+}
+
+/* MyComponent.css */
+
+/* Style for the container of the card */
+.similar-product {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Style for the image */
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  transition: transform 0.3s;
+  /* Add a smooth transition effect */
+}
+
+/* Style for the title and price */
+.title,
+.price {
+  margin: 10px 0;
+
+}
+
+/* Hover effect for the image */
+.similar-product:hover .responsive-image {
+  transform: scale(1.1);
+  /* Scale up the image on hover */
+}

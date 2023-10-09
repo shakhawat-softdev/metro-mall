@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "productName": "Ring",
+        "description": "This is the description for Product 1. It's a fantastic product that offers great value for the price. With a sleek design and top-notch performance, it's a must-have for tech enthusiasts. Brand A is known for its quality products.",
+        "price": 19.99,
+        "quantity": 10,
+        "brand": "Brand A",
+        "image": "https://i.ibb.co/CMngvLD/img1.jpg"
+    },
+    {
+        "id": 2,
+        "productName": "Backpack",
+        "description": "This is the description for Product 2. It's a versatile and stylish option. Its price of 29.99 makes it affordable for all budgets. With 5 in stock, it's a hot item right now. Brand B is a trusted name in the industry.",
+        "price": 29.99,
+        "quantity": 5,
+        "brand": "Brand B",
+        "image": "https://i.ibb.co/VgkGZ0c/img2.jpg"
+    },
+    {
+        "id": 3,
+        "productName": "T-Shart",
+        "description": "This is the description for Product 3. Looking for a reliable product? Product 3 is here to meet your needs. Priced at 14.99, it's a budget-friendly choice. We have 15 units available. Brand C is synonymous with quality.",
+        "price": 14.99,
+        "quantity": 15,
+        "brand": "Brand C",
+        "image": "https://i.ibb.co/zfcvxwB/img3.jpg"
+    },
+    {
+        "id": 4,
+        "productName": "Hand Watch",
+        "description": "This is the description for Product 4. It's a top performer with a price tag of 24.99. We have 8 units in stock. Brand A products are known for their durability and style. Don't miss out!",
+        "price": 24.99,
+        "quantity": 8,
+        "brand": "Brand A",
+        "image": "https://i.ibb.co/wdTBhx8/img4.jpg"
+    },
+    {
+        "id": 5,
+        "productName": "Head Phone",
+        "description": "This is the description for Product 5. Introducing Product 5, a premium choice at 39.99. Hurry, only 3 left in stock! Brand B stands for innovation and quality. Upgrade your lifestyle with this product.",
+        "price": 39.99,
+        "quantity": 3,
+        "brand": "Brand B",
+        "image": "https://i.ibb.co/Xs8pj7w/img5.jpg"
+    },
+    {
+        "id": 6,
+        "productName": "Laptop",
+        "description": "This is the description for Product 6. It's a versatile option priced at 9.99. With 20 units in stock, it's a great value for the price. Brand C products are known for their reliability and performance.",
+        "price": 9.99,
+        "quantity": 20,
+        "brand": "Brand C",
+        "image": "https://i.ibb.co/BGRZzn8/img6.jpg"
+    },
+    {
+        "id": 7,
+        "productName": "Eye Glass",
+        "description": "This is the description for Product 7. Product 7 is a fantastic choice. It's priced at 18.99 and we have 12 units available. Brand A is known for delivering quality products.",
+        "price": 18.99,
+        "quantity": 12,
+        "brand": "Brand A",
+        "image": "https://i.ibb.co/Wg4Xf9H/img7.jpg"
+    },
+    {
+        "id": 8,
+        "productName": "Wall Clock",
+        "description": "This is the description for Product 8. Get Product 8 for just 32.99. We have 6 units in stock. Brand B is a trusted name in the industry.",
+        "price": 32.99,
+        "quantity": 6,
+        "brand": "Brand B",
+        "image": "https://i.ibb.co/Y8dgHhV/img8.jpg"
+    },
+    {
+        "id": 9,
+        "productName": "Sound Box",
+        "description": "This is the description for Product 9. Product 9 is a budget-friendly option priced at 12.99. We have 18 units available. Brand C is synonymous with quality.",
+        "price": 12.99,
+        "quantity": 18,
+        "brand": "Brand C",
+        "image": "https://i.ibb.co/bgTYJ1w/img9.jpg"
+    },
+    {
+        "id": 10,
+        "productName": "Jacket",
+        "description": "This is the description for Product 10. Product 10 is a top performer with a price of 27.99. We have 7 units in stock. Brand A products are known for their durability and style.",
+        "price": 27.99,
+        "quantity": 7,
+        "brand": "Brand A",
+        "image": "https://i.ibb.co/X2K1mST/img10.jpg"
+    },
+    {
+        "id": 11,
+        "productName": "Tremiar",
+        "description": "This is the description for Product 11. Upgrade your lifestyle with Product 11, priced at 42.99. Only 2 left in stock! Brand B stands for innovation and quality.",
+        "price": 42.99,
+        "quantity": 2,
+        "brand": "Brand B",
+        "image": "https://i.ibb.co/s6VZ80M/img11.jpg"
+    },
+    {
+        "id": 12,
+        "productName": "Shampoo",
+        "description": "This is the description for Product 12. Product 12 is a versatile option priced at 8.99. With 25 units in stock, it's a great value for the price. Brand C products are known for their reliability and performance.",
+        "price": 8.99,
+        "quantity": 25,
+        "brand": "Brand C",
+        "image": "https://i.ibb.co/KwB0t8H/img12.jpg"
+    }
+]
