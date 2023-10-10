@@ -8,8 +8,8 @@ import { RouterProvider } from 'react-router-dom';
 import router from './routes/router';
 import AuthProvider from './authProvider/AuthContext';
 
-import axios from "axios"
-axios.defaults.baseURL="https://api.ekshop.com.bd/";
+import axios from "axios";
+axios.defaults.baseURL = "https://api.ekshop.com.bd/";
 // test
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
