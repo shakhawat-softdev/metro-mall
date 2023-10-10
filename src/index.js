@@ -9,7 +9,7 @@ import router from './routes/router';
 import AuthProvider from './authProvider/AuthContext';
 
 import axios from "axios"
-axios.create({ baseUrl: "https://api.ekshop.com.bd/" });
+axios.defaults.baseURL="https://api.ekshop.com.bd/";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
